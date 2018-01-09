@@ -1,5 +1,10 @@
-# ObjectREC-Tranferlearning
-Repository has code for simple convolutional neural network for object detection and tranfer learning using faster rcnn for object recognition
+# AI - ESA - Image Classification and Localization
+
+## Submitted by:
+* 01FB15ECS097	Durga Akhil M.
+* 01FB15ECS101	G. Sameer
+* 01FB15ECS104	Ganesh K.
+* 01FB15ECS366	Rahul R. Bharadwaj
 
 ## Requirements:
 * Python 3.x.x
